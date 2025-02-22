@@ -2,6 +2,7 @@
 
 **Email:** applelinda260@gmail.com  
 **Phone:** (+358) 449335575
+
 **Address:** Uotimaentie,Helsinki
 
 ## Work Experience
