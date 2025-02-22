@@ -4,9 +4,6 @@
 **Phone:** (+358) 449335575
 **Address:** Uotimaentie,Helsinki
 
-## Professional Summary
-Experienced software developer with a strong background in developing scalable web applications. Proficient in JavaScript, Python, and Java. Seeking to leverage my skills in a challenging role at a forward-thinking company.
-
 ## Work Experience
 
 ### Kindergarten Teacher
