@@ -39,5 +39,4 @@
 - English (Intermediate)
 - finnish (Basic)
 
-## References
-Available upon request.
+
